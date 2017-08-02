@@ -1,0 +1,15 @@
+{
+    "name": "strange",
+    "version": "0.0.1",
+    "description": "Strange ...",
+    "dependencies": {
+		"next": "2.x.x",
+		"react": "15.x.x",
+		"react-dom": "15.x.x"
+    },
+    "scripts": {
+		"dev": "next",
+		"build": "next build",
+		"start": "next start"
+    }
+}
