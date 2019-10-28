@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "description": "Strange ...",
     "dependencies": {
-		"next": "8.x.x",
+		"next": "9.x.x",
 		"react": "16.x.x",
 		"react-dom": "16.x.x"
     },
@@ -11,6 +11,6 @@
 		"dev": "next",
 		"build": "next build",
 		"start": "next start",
-	    	"export": "next export"
+	    "export": "next export"
     }
 }
