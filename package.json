@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "description": "Strange ...",
     "dependencies": {
-	"next": "13.x.x",
+	"next": "14.x.x",
 	"react": "18.x.x",
 	"react-dom": "18.x.x"
     },
